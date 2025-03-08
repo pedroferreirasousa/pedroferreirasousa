@@ -1,5 +1,6 @@
 
 ## Olá me chamo Pedro Ferreira, sou desenvolvedor Front-End
+##Estudando de Analise e Desenvolvimento de Sistemas
 <div align="center">
   <a href="https://github.com/pedroferreirasousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreirasousa&layout=compact&langs_count=7&theme=dark"/>
