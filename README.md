@@ -1,10 +1,7 @@
 
-## Olá me chamo Pedro Ferreira, sou Desenvolvedor Front-End
-##Estudante de Analise e Desenvolvimento de Sistemas
+## Pedro Ferreira Sousa, Desenvolvedor Front End
 
-## Habilidades :
-
-<p> Olá, me chamo Pedro, sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript , ReactJs e NextJs.
+<p> Olá, Seja bem vindo! sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript , ReactJs e NextJs.
   Tenho paixão por criar interfaces responsivas e intuitivas, sempre priorizando uma boa experiência de usuário. 
   Tenho conhecimentos sólidos em Tailwind CSS, Sass, StyledComponents, Gsap, Git, GitHub e Figma,o que me permite 
   trabalhar de forma ágil e colaborativa.
@@ -12,8 +9,7 @@
 Busco constantemente evoluir minhas habilidades e estou focado em me tornar um desenvolvedor Fullstack,
 aprendendo novas tecnologias para oferecer soluções completas e escaláveis.
 
-
-👨🏻‍💻Habilidades:
+## Habilidades :
 
 🔹 Front-end: HTML5, CSS3, JavaScript, ReactJs, Nextjs, Tailwind CSS,  SASS, Styled Components, Gsap
 
@@ -23,8 +19,6 @@ aprendendo novas tecnologias para oferecer soluções completas e escaláveis.
 
 🔹 Responsividade: Criação de layouts adaptativos e eficientes
 </p>
-
-<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
