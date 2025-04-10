@@ -1,10 +1,6 @@
 
-## Olá me chamo Pedro Ferreira, sou desenvolvedor Front-End
-##Estudando de Analise e Desenvolvimento de Sistemas
-<div align="center">
-  <a href="https://github.com/pedroferreirasousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreirasousa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## Olá me chamo Pedro Ferreira, sou Desenvolvedor Front-End
+##Estudante de Analise e Desenvolvimento de Sistemas
 
 ## Habilidades :
 
@@ -18,9 +14,14 @@
   <img align="center" alt="Pedro-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Pedro-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  
-  
+  <img align="center" alt="Pedro-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/pedroferreirasousa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreirasousa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ## Atualmente estudando :
