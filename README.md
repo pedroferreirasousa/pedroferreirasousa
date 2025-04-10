@@ -4,9 +4,13 @@
 
 ## Habilidades :
 
-<pre> Olá, me chamo Pedro, sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript , ReactJs e NextJs. Tenho paixão por criar interfaces responsivas e intuitivas, sempre priorizando uma boa experiência de usuário. Tenho conhecimentos sólidos em Tailwind CSS, Sass, StyledComponents, Gsap, Git, GitHub e Figma, o que me permite trabalhar de forma ágil e colaborativa.
+<p> Olá, me chamo Pedro, sou desenvolvedor front-end com experiência em HTML, CSS, JavaScript , ReactJs e NextJs.
+  Tenho paixão por criar interfaces responsivas e intuitivas, sempre priorizando uma boa experiência de usuário. 
+  Tenho conhecimentos sólidos em Tailwind CSS, Sass, StyledComponents, Gsap, Git, GitHub e Figma,o que me permite 
+  trabalhar de forma ágil e colaborativa.
 
-Busco constantemente evoluir minhas habilidades e estou focado em me tornar um desenvolvedor Fullstack, aprendendo novas tecnologias para oferecer soluções completas e escaláveis.
+Busco constantemente evoluir minhas habilidades e estou focado em me tornar um desenvolvedor Fullstack,
+aprendendo novas tecnologias para oferecer soluções completas e escaláveis.
 
 
 👨🏻‍💻Habilidades:
@@ -18,7 +22,9 @@ Busco constantemente evoluir minhas habilidades e estou focado em me tornar um d
 🔹 Design e UX/UI: Figma
 
 🔹 Responsividade: Criação de layouts adaptativos e eficientes
-</pre>
+</p>
+
+<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,12 +39,12 @@ Busco constantemente evoluir minhas habilidades e estou focado em me tornar um d
   <img align="center" alt="Pedro-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-</div>
+</div> <br><br>
 
 <div align="center">
   <a href="https://github.com/pedroferreirasousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreirasousa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> <br>
 
  ## Atualmente estudando :
  ### 📚-Typescript
