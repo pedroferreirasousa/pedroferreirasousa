@@ -32,7 +32,6 @@ aprendendo novas tecnologias para oferecer soluções completas e escaláveis.
   <img align="center" alt="Pedro-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Pedro-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img align="center" alt="Pedro-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div> <br><br>
 
 <div align="center">
