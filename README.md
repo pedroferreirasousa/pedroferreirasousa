@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/pedroferreirasousa/pedroferreirasousa/assets/assets/BannerGitHub.png" width="100%" alt="Banner de perfil - Desenvolvedor Front End" />
+  <img src="./assets/BannerGitHub.png" width="100%" alt="Banner de perfil - Desenvolvedor Front End" />
 </div>
 
 <h1 align="center">Olá! Eu sou o Pedro Ferreira Sousa 👋</h1>
