@@ -40,8 +40,8 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
   <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <img align="center" alt="Styled Components" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-original.svg">
-  <img align="center" alt="Gsap" height="40" width="50" src="https://www.vectorlogo.zone/logos/greensock/greensock-icon.svg">
+  <h2>StyledComponent ,</h2>
+  <h2>GSAP</h2>
 </p>
 
 ### Versionamento e Colaboração
