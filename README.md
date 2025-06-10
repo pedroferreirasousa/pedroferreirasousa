@@ -75,7 +75,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pedrofsousa" target="_blank">
+  <a href="https://www.linkedin.com/in/pedrofsousa" target="__blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   </p>
