@@ -7,7 +7,7 @@
 <p align="center">
   Desenvolvedor Front-end apaixonado por criar interfaces responsivas, intuitivas e com foco na experiência do usuário.
   Minha jornada na programação começou com HTML, CSS e JavaScript, e rapidamente evoluiu para o ecossistema React,
-  com forte experiência em <strong>ReactJS</strong> e <strong>Next.js</strong>.
+  com experiência em <strong>ReactJS</strong> e <strong>Next.js</strong>.
 </p>
 
 <p align="center">
