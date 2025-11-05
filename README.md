@@ -80,8 +80,7 @@ const pedro = {
   
 🔭 Currently building **modern web applications** with React and Next.js  
 ⚙️ Developing **ETL automation systems** with Python, integrating API for automated data processing and reporting  
-🤖 Working on **process automation** using Apache Airflow, Django, and PostgreSQL for scheduled reports via email and WhatsApp Business API  
-🌱 Deepening my knowledge in **cloud technologies** and **microservices**  
+🤖 Working on **process automation** using Apache Airflow, Django, and PostgreSQL for scheduled reports via email and WhatsApp Business API    
 💬 Ask me about **React, Python, Django, Airflow, or automation workflows**  
 ⚡ Fun fact: **I love creating seamless user experiences and automating repetitive tasks!**
 
