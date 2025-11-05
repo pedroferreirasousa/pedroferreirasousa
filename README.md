@@ -7,8 +7,10 @@
 <h1 align="center">Fullstack Developer</h1>
 
 
+</p>
 <p align="center">
-Fullstack Developer especializado em criar soluções completas para web, desde a interface até a arquitetura de dados. Experiência com Typescript, Javascript, Node.js, React, Next.js, Python, Django, PostgreSQL e MySQL. Comprometido com performance, escalabilidade, automação e entrega contínua, sempre superando expectativas em projetos desafiadores.
+Fullstack Developer especializado em criar soluções completas para web, desde a interface até a arquitetura de dados. Experiência com Typescript, Javascript, Node.js, React, Next.js, Python, Django, PostgreSQL, MySQL, Apache Airflow e integrações com a API META WhatsApp Business. Comprometido com performance, escalabilidade, automação, comunicação empresarial e entrega contínua, sempre superando expectativas em projetos desafiadores.
+</p>
 </p>
 
 
@@ -18,17 +20,19 @@ Fullstack Developer especializado em criar soluções completas para web, desde 
   <table>
     <tr>
       <th align="center">Front-end</th>
-      <th align="center">Back-end</th>
+  <th align="center">Back-end & Automação</th>
       <th align="center">Banco de Dados</th>
       <th align="center">Versionamento</th>
       <th align="center">Design & Ferramentas</th>
-    </tr>
-    <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="30" height="30" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Typescript" width="30" height="30" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="30" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="30" height="30" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="30" height="30" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/AirflowLogo.png" alt="Airflow" width="30" height="30" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Business API" width="30" height="30" />
+      </td>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" />
@@ -40,7 +44,6 @@ Fullstack Developer especializado em criar soluções completas para web, desde 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="30" height="30" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="30" height="30" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="30" height="30" />
       </td>
       <td>
