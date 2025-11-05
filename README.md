@@ -63,7 +63,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreirasousa&layout=compact&langs_count=7&theme=dark&hide_title=true&card_width=320" alt="Top Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreirasousa&layout=compact&langs_count=7&theme=dark&hide_title=true&hide=html,css&card_width=320" alt="Top Linguagens" />
 </div>
 
 <br>
