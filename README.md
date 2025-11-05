@@ -1,62 +1,51 @@
+---
 <div align="center">
-  <img src="./assets/BannerGitHub.png" width="100%" alt="Banner de perfil - Desenvolvedor Front End" />
+  <img src="./assets/BannerGitHub.png" width="100%" alt="Banner de perfil - Desenvolvedor Fullstack" />
 </div>
 
-<h1 align="center">Olá! Eu sou o Pedro Ferreira Sousa 👋</h1>
+# Olá! Eu sou o Pedro Ferreira Sousa 👋
 
-<p align="center">
-  Desenvolvedor Front-end apaixonado por criar interfaces responsivas, intuitivas e com foco na experiência do usuário.
-  Minha jornada na programação começou com HTML, CSS e JavaScript, e rapidamente evoluiu para o ecossistema React,
-  com experiência em <strong>ReactJS</strong> e <strong>Next.js</strong>.
-</p>
+**Software Developer** | Typescript | Javascript | Node.js | React | Next.js | Python | Django | PostgreSQL
 
-<p align="center">
-  Priorizo um código limpo, modular e eficiente, e possuo conhecimentos sólidos em frameworks CSS como <strong>Tailwind CSS</strong>,
-  além de pré-processadores como <strong>Sass</strong> e bibliotecas de estilização como <strong>Styled Components</strong>.
-  Com habilidades em <strong>Git</strong> e <strong>GitHub</strong>, trabalho de forma ágil e colaborativa,
-  garantindo um fluxo de desenvolvimento contínuo.
-</p>
+Desenvolvedor apaixonado por tecnologia, atuando tanto no **Front-end** quanto no **Back-end**. Tenho experiência em criar interfaces modernas, arquiteturas escaláveis e soluções completas para web.
 
-<p align="center">
-  Busco constantemente expandir meu conhecimento, com o objetivo de me tornar um desenvolvedor <strong>Fullstack</strong>.
-  Estou sempre aberto a novos desafios e oportunidades para aplicar minhas habilidades e aprender novas tecnologias.
-</p>
+Priorizo código limpo, modular e eficiente, sempre focado na experiência do usuário e na robustez dos sistemas. Trabalho de forma colaborativa, utilizando **Git** e **GitHub** para garantir agilidade e qualidade no desenvolvimento.
 
-<br>
+Estou em constante evolução, buscando aprender novas tecnologias e enfrentar desafios que impulsionem meu crescimento profissional.
 
 ---
 
 ## 🛠️ Minhas Habilidades Técnicas
 
-Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia:
+### Linguagens e Frameworks
+
+![Typescript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)
+![Javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg)
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg)
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)
 
 ### Front-end
-<p>
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Tailwind CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Sass" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  <p>StyledComponent </p>
-  <p>GSAP</p>
-</p>
+
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg)
+![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg)
+![Styled Components](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/styledcomponents/styledcomponents-original.svg)
+![GSAP](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gsap/gsap-original.svg)
 
 ### Versionamento e Colaboração
-<p>
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-</p>
+
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg)
 
 ### Design e Ferramentas
-<p>
-  <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</p>
 
-<br>
+![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 
 ---
 
@@ -66,22 +55,18 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferreirasousa&layout=compact&langs_count=7&theme=dark&hide_title=true&card_width=320" alt="Top Linguagens" />
 </div>
 
-<br>
-
 ---
 
 ## 🤝 Conecte-se Comigo!
-
-Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para entrar em contato:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedrofsousa" target="__blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  </p>
-
-<br>
+</p>
 
 ---
 
 <p align="center">Feito por Pedro Ferreira Sousa</p>
+
+---
