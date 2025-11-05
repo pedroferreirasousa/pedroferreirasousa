@@ -79,7 +79,7 @@ const pedro = {
 <div align="center">
   
 🔭 Currently building **modern web applications** with React and Next.js  
-⚙️ Developing **ETL automation systems** with Python, integrating John Deere API for automated data processing and reporting  
+⚙️ Developing **ETL automation systems** with Python, integrating API for automated data processing and reporting  
 🤖 Working on **process automation** using Apache Airflow, Django, and PostgreSQL for scheduled reports via email and WhatsApp Business API  
 🌱 Deepening my knowledge in **cloud technologies** and **microservices**  
 💬 Ask me about **React, Python, Django, Airflow, or automation workflows**  
