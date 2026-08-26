@@ -14,17 +14,15 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
+          # Traz o total de commits, repositórios e atividade corporativa/privada
           repositories_affiliations: owner, collaborator, organization_member
           
-          # Calendário 3D
+          # Calendário 3D (Roda 100% perfeitamente)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Configuração completa do plugin de linguagens
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage, lines
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+          # Desativa os plugins que dependem de leitura de bytes bloqueados por SSO
+          plugin_languages: no
+          plugin_habits: no
           
           config_timezone: America/Sao_Paulo
