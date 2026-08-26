@@ -14,20 +14,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Repositórios corporativos/privados para métricas gerais
           repositories_affiliations: owner, collaborator, organization_member
           
           # Calendário 3D
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Plugin de Linguagens mais usadas (modo compatível com SSO)
+          # Configuração completa do plugin de linguagens
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: percentage
+          plugin_languages_details: percentage, lines
           plugin_languages_limit: 8
-          
-          # Desativa o hábito para não dar "Unexpected error"
-          plugin_habits: no
+          plugin_languages_threshold: 0%
           
           config_timezone: America/Sao_Paulo
