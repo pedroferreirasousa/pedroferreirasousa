@@ -117,5 +117,5 @@ const pedro = {
 
 
 
-![Métricas do GitHub](github-metrics.svg?v=1)
+<img src="github-metrics.svg?raw=true&v=2" alt="Métricas do GitHub" />
 
