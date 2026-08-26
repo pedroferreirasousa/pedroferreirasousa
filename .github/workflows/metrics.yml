@@ -14,18 +14,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Força o bot a buscar repositórios corporativos/privados onde você é colaborador ou membro
+          # Repositórios de organizações/empresas
           repositories_affiliations: owner, collaborator, organization_member
           
           # Calendário 3D
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
-          # Hábitos de código
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           
           # Linguagens
           plugin_languages: yes
