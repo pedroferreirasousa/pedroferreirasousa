@@ -114,3 +114,5 @@ const pedro = {
 **Thanks for visiting my profile! Have a great day! 😊**
 
 </div>
+
+![Métricas do GitHub](github-metrics.svg)
